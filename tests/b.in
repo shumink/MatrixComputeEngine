@@ -1,0 +1,17 @@
+SET a = identity
+SET b = random 1
+SET c = uniform 1
+SET d = sequence 1 1
+SET r = random 1
+COMPUTE sum r
+COMPUTE trace r
+SET r = matrix.mul c a
+COMPUTE sum r
+COMPUTE trace r
+SET r = matrix.mul c a
+COMPUTE sum r
+COMPUTE trace r
+SET r = matrix.mul c a
+COMPUTE sum r
+COMPUTE trace r
+BYE

@@ -1,0 +1,975 @@
+set a = random 1
+COMPUTE minimum a
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+set b = random 2
+COMPUTE minimum b
+set c = random 3
+COMPUTE minimum c
+set d = random 4
+COMPUTE minimum d
+set e = random 5
+COMPUTE minimum e
+set f = random 6
+COMPUTE minimum f
+set g = random 7
+COMPUTE minimum g
+set h = random 8
+COMPUTE minimum h
+set i = random 9
+COMPUTE minimum g
+set j = random 10
+COMPUTE minimum h
+bye

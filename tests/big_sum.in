@@ -1,0 +1,21 @@
+set a = random 1
+COMPUTE SUM a
+set b = random 2
+COMPUTE SUM b
+set c = random 3
+COMPUTE SUM c
+set d = random 4
+COMPUTE SUM d
+set e = random 5
+COMPUTE SUM e
+set f = random 6
+COMPUTE SUM f
+set g = random 7
+COMPUTE SUM g
+set h = random 8
+COMPUTE SUM h
+set i = random 9
+COMPUTE SUM g
+set j = random 10
+COMPUTE SUM h
+bye

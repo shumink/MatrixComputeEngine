@@ -1,0 +1,11 @@
+set a = uniform 1
+set b = uniform 2
+set c = uniform 3
+set d = matrix.mul a b
+set e = matrix.mul b c
+set f = matrix.mul c e
+set g = matrix.mul e f
+set h = matrix.mul f g
+set g = matrix.mul e f
+set h = matrix.mul f g
+BYE
