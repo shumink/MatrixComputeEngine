@@ -44,3 +44,5 @@ COMPUTE maximum <key>
 COMPUTE determinant <key>
 COMPUTE frequency <key> <value>
 ```
+## Acknowledgement
+I would like to ackowledge University of Sydney for providing the ```main.c``` and ```matrix.h``` file, to which the license declared in LICENSE file does not apply.
