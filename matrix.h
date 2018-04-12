@@ -1,3 +1,5 @@
+//Copyright 2016 University of Sydney. All rights reserved
+
 #ifndef MATRIX_H
 #define MATRIX_H
 

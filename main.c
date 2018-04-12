@@ -1,8 +1,4 @@
-/*
-######################################
-### DO NOT MODIFY THIS SOURCE FILE ###
-######################################
-*/
+//Copyright 2016 University of Sydney. All rights reserved
 
 #include <stdio.h>
 #include <stdlib.h>
